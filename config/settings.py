@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     'seandiehl-blog.onrender.com', # or whatever Render subdomain it gives you
     'seandiehl.com',
     'www.seandiehl.com',
+    'blog-f4ef.onrender.com',
 ]
 
 
